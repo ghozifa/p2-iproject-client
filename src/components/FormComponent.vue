@@ -61,7 +61,6 @@ export default {
                 await this.fetchCategories();
             }
         }
-
     }
 }
 </script>
